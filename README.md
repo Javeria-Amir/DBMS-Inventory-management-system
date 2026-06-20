@@ -41,17 +41,28 @@ The system uses the following tables:
   
 ## Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard)
+### Complete System Interface
+![Complete Interface](screenshots/complete-interface.PNG)
+
+### Dashboard Overview
+Displays inventory statistics including total products, products in stock, low-stock items, and total inventory value.
+
+![Dashboard Overview](screenshots/dashboard.PNG)
+
+### Add New Product
+Form for adding products with category, price, stock quantity, and minimum stock level.
+
+![Add Product Form](screenshots/add-product-form.PNG)
 
 ### Product Management
-![Products](screenshots/product)
+View, edit, and delete products from the inventory database.
 
-### Supplier Management
-![Suppliers](screenshots/suppliers.png)
+![Product Management](screenshots/product-management.PNG)
 
-### Inventory Tracking
-![Inventory](screenshots/inventory.png)
+### Product Search
+Search products by name and view filtered inventory results.
+
+![Product Search](screenshots/product-search.PNG)
 
 ## Learning Outcomes
 
