@@ -42,10 +42,10 @@ The system uses the following tables:
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard)
 
 ### Product Management
-![Products](screenshots/products.png)
+![Products](screenshots/product)
 
 ### Supplier Management
 ![Suppliers](screenshots/suppliers.png)
